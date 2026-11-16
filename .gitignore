@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+*.pyc
+verification-shots/
+model/*.blend1
+.DS_Store
